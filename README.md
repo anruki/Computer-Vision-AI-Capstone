@@ -33,9 +33,9 @@ Architecture:
 
 2 fully connected layers
 
-1×1 reduction layers
+- 1×1 reduction layers
 
-3×3 convolutional layers
+- 3×3 convolutional layers
 
 The early convolutional layers handle feature extraction, while the fully connected layers predict output probabilities and object coordinates.
 
