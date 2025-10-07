@@ -19,7 +19,7 @@ The role of multimedia processing in this project is to create a pipeline that t
 
 In total, six programs were developed, each addressing different approaches and scenarios. As the project progresses, new improvements are introduced and tested on various video samples.
 
-## 1.1. YOLO Algorithm (You Only Look Once)
+YOLO Algorithm (You Only Look Once)
 
 The You Only Look Once (YOLO) algorithm is an open-source system for real-time object detection. It uses a single convolutional neural network (CNN) to detect objects in images.
 
